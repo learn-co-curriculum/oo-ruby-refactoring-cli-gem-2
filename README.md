@@ -1,5 +1,5 @@
 
-# Refactoring a CLI Gem (Concert Gem)
+# Video: Refactoring a CLI Gem (Concert Gem)
 
 ​*This video walks through an extended extended process of refactoring a CLI Gem*​
 
