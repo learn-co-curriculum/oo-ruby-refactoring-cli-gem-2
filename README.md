@@ -60,4 +60,4 @@
 [Original Code](https://github.com/benser1/cli-upcoming-concerts/tree/8652e5c285ca779fd2fa94f0490f726a0ec22b6f)
 
 [Refactored Code](https://github.com/benser1/cli-upcoming-concerts)
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-refactoring-cli-gem-2'>OO Ruby Refactoring CLI Gem 2</a> on Learn.co and start learning to code for free.</p>
+
